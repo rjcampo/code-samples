@@ -34,7 +34,7 @@ The positive estimated coefficients for the dummy variables that record
 whether an individual has a high school or college diploma provide evidence
 for the sheepskin effect, the idea that getting a diploma results in an 
 income boost due to a signal effect. Similarly, the positive estimated
-coefficient of HSDIP-EDUCDC and more positive estimated coefficient of
-COLDIP-EDUCDC provide evidence for increasing returns to education.
+coefficients of HSDIP-EDUCDC and COLDIP-EDUCDC provide evidence for increasing
+returns to education for graduates.
 
 
